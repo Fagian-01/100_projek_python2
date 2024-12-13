@@ -1,3 +1,4 @@
+# Dibuatoleh M Fagian Darmawan
 # Dibuat Pada 05 11 2024
 # Ini Adalah Program Kerucut
 import math
